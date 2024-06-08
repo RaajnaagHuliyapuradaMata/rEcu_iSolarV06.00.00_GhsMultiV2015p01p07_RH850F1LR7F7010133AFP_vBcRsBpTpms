@@ -405,6 +405,7 @@ target_include_directories(
    ${PROJECT_NAME} PUBLIC
    "${PROJECT_SOURCE_DIR}/source/common"
    "${PROJECT_SOURCE_DIR}/source/ProjectMemMap"
+   "${PROJECT_SOURCE_DIR}/source/ProjectARA"
    "${PROJECT_SOURCE_DIR}/source/ProjectCfg"
    "${PROJECT_SOURCE_DIR}/source/EcuabIfCan"
    "${PROJECT_SOURCE_DIR}/source/EcuabIfMem"
